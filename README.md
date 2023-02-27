@@ -1,1 +1,1 @@
-Complete Ruby on rails
+First test repo on the Complete Ruby on rails
